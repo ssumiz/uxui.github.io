@@ -1,0 +1,64 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+    color: blueviolet;
+}
+
+ul {
+    list-style: none;
+}
+
+.bg-check {
+    background-color: grey;
+}
+
+.d-flex {
+    display: flex;
+}
+
+.jcb {
+    justify-content: space-between;
+}
+
+.aic {
+    align-items: center;
+}
+
+.rel {
+    position: relative;
+}
+
+.abs {
+    position: absolute;
+}
+
+.ofn {
+    overflow: hidden;
+}
+
+.h100 {
+    height: 100px;
+}
+
+.h200 {
+    height: 200px
+}
+
+.h300 {
+    height: 300px;
+}
+
+.width100 {
+    width: 100%;
+}
+
+.w1200 {
+    width: 1200px;
+}
+
+/* ////////////////////////////// */
+
